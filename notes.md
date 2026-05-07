@@ -1,0 +1,3 @@
+DX 2026 - AirBnb was the most successful company in leveraging AI as they had non-developers using it
+This project should be done with GitHub assistance - we are setting up a GitHub development environment as well as creating this project with claude code enhancements.
+This is for the person who has taking a couple coding classes, understands logic, but has little experience in optimizing a developer environment and what that entails. 
